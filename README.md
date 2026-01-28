@@ -2,7 +2,7 @@
 Project Overview
 This project focuses on building an interactive and dynamic Excel dashboard to analyze McDonald’s India sales data. The goal is to uncover actionable insights across menu categories, customer behavior, time-based trends, and geographic performance.
 
-Data Cleaning
+**Data Cleaning**
 
 Removed duplicate entries
 
@@ -10,7 +10,7 @@ Handled null values using forward/backward fill
 
 Standardized date formats and category labels
 
-Key Questions Explored
+**Key Questions Explored**
 
 What is the total sales revenue for each category of menu items?
 
@@ -32,7 +32,7 @@ How does the sales performance vary by category over different months?
 
 Compare the sales of top 5 menu items
 
-Dashboard Features
+**Dashboard Features**
 
 Total Revenue & Orders Overview
 
@@ -46,7 +46,7 @@ Monthly Trends Across Categories
 
 Interactive Filters for Category, Time, and City
 
-Tools & Skills Used
+**Tools & Skills Used**
 
 Microsoft Excel
 
@@ -60,9 +60,10 @@ Business Analytics
 
 Dashboard Design
 
+
 McDonald’s India sales data contained thousands of transactional records across multiple product categories, order times, and customer behaviors. However, the raw dataset was unstructured, with duplicates and missing values, making it difficult to extract meaningful insights for business decision-making.
 
-The objective was to design an Excel-based interactive dashboard that could:
+**The objective was to design an Excel-based interactive dashboard that could:**
 
 Summarize overall sales performance
 
@@ -74,7 +75,7 @@ Highlight top-selling and low-performing items
 
 Provide actionable insights for demand forecasting and product planning
 
-Conducted data cleaning: removed duplicates, validated order values, and filled missing entries.
+**Conducted data cleaning:** removed duplicates, validated order values, and filled missing entries.
 
 Structured raw transactional data for accurate reporting.
 
@@ -82,11 +83,11 @@ Built Pivot Tables and Pivot Charts to analyze sales by category, day of week, a
 
 Applied formulas and slicers to enable dynamic filtering and exploration.
 
-Designed a dashboard summarizing key metrics:
+**Designed a dashboard summarizing key metrics:**
 
-$61.6K+ total sales
+**$61.6K+** total sales
 
-570 total orders
+**570** total orders
 
 Average of 2 items per order
 
@@ -94,7 +95,7 @@ Performed time-based analysis to identify hourly demand spikes, daily fluctuatio
 
 Compared top 5 menu items against low-performing products to highlight revenue drivers.
 
-Result:
+**Result:**
 
 Delivered a clear, interactive dashboard that provided a snapshot of McDonald’s business performance.
 
