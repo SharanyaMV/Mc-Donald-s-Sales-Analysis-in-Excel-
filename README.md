@@ -3,6 +3,7 @@ Project Overview
 This project focuses on building an interactive and dynamic Excel dashboard to analyze McDonald’s India sales data. The goal is to uncover actionable insights across menu categories, customer behavior, time-based trends, and geographic performance.
 
 Data Cleaning
+
 Removed duplicate entries
 Handled null values using forward/backward fill
 Standardized date formats and category labels
